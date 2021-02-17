@@ -1,0 +1,7 @@
+.question-navbar .nav-item {
+    margin-bottom: 1em;
+}
+
+.question-navbar .nav-item .btn{
+    width: available !important;
+}
